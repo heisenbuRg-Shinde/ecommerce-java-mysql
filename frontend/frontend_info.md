@@ -1,0 +1,1 @@
+This frontend folder will have all the frontend code using HTML,CSS AND JAVASCRIPT.

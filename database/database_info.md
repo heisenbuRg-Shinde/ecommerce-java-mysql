@@ -1,0 +1,1 @@
+This database folder will have all the database related code in SQL scripts
